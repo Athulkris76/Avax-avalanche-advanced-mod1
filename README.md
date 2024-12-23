@@ -70,7 +70,7 @@ Use the following information to connect to your Subnet:
 - **Currency Symbol:** `Ahulk`
 
 
-Done by Ahulk
+Done by Ahulkrishn19
 
 ## Conclusion
 Submitted By AryaAkku, have successfully set up an Avalanche Subnet, deployed Solidity contracts, and interacted with them using Remix and MetaMask.
